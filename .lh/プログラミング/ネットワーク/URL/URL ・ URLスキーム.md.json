@@ -1,0 +1,18 @@
+{
+    "sourceFile": "プログラミング/ネットワーク/URL/URL ・ URLスキーム.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1760282394486,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1760282394486,
+            "name": "Commit-0",
+            "content": "#URL #URLスキーム\n\n# URLとは？\n**ホームページの置いてある場所とファイル名を示す情報**\n\n見たい[ホームページ](https://wa3.i-3-i.info/word1342.html)が「どこにある[ファイル](https://wa3.i-3-i.info/word1100.html)か」「どんな名前のファイルか」などを示す情報のこと。\n\n---\n\n# URLの構成要素\nURLは以下の6つの要素で構成される:\n\n1. **スキーム** - 通信手段を示す(例: `http`, `https`)\n2. **ホスト** - サーバーの場所(ドメイン名またはIPアドレス)\n3. **ポート** - 接続先のポート番号\n4. **パス** - サーバー内のファイルの場所\n5. **クエリー** - 追加のパラメータ情報\n6. **フラグメント** - ページ内の特定位置\n\n---\n\n# URLスキーム\n**「どんな手段で通信するか」を示す情報**\n\n> [!NOTE] スキームについて\n> - スキームはURLの種類、性質そのものを表している\n> - 代表的なスキーム: `https`, `http`, `ftp`, `mailto` など\n\n---\n\n# ホストとポート\n\n> [!TIP] 記述ルール\n> - スキームの直後は `:` で区切る\n> - ホストは、ドメイン名か、IPアドレスのいずれかで指定\n> \n> **例:**\n> - `https://example.com/`\n> - `https://example.com:443/` (ポート付き)\n\n---\n\n# 参考資料\n\n> [!NOTE] 参考画像\n> ![[CamScanner 2025-10-12 15.29.jpg]]\n> ![[CamScanner 2025-10-12 17.56 1.jpg]]\n\n> [!INFO] 参考元サイト\n> - https://wa3.i-3-i.info/word1813.html\n> - https://wa3.i-3-i.info/word114.html\n> - https://wa3.i-3-i.info/word1814.html"
+        }
+    ]
+}

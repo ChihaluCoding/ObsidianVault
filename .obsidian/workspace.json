@@ -11,10 +11,14 @@
             "id": "681c68a658bad641",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "プログラミング/ネットワーク/URL/URL ・ URLスキーム.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "URL ・ URLスキーム"
             }
           }
         ]
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.49999618530273
+    "width": 204.49999618530273,
+    "collapsed": true
   },
   "right": {
     "id": "fc3287fc69a0cb44",
@@ -119,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "プログラミング/ネットワーク/URL/URL ・ URLスキーム.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "URL ・ URLスキームからのアウトゴーイングリンク"
             }
           },
           {
@@ -147,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "プログラミング/HTML・CSS/2025-10-12.md",
+                "file": "プログラミング/ネットワーク/URL/URL ・ URLスキーム.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-10-12のアウトライン"
+              "title": "URL ・ URLスキームのアウトライン"
             }
           },
           {
@@ -199,27 +205,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "564e082e5bd8f2be",
+  "active": "681c68a658bad641",
   "lastOpenFiles": [
+    "Markdown書き方ガイド.md",
+    "プログラミング/Markdown書き方ガイド.md",
+    "ToDo/2025-10-13.md",
+    "プログラミング/HTML・CSS/2025-08-24.md",
+    "ToDo/2025-10-12.md",
+    "Script/ToDo.lnk",
+    "Script/create_todo_daily_note.bat - ショートカット.lnk",
+    "ToDo/2025-08-24.md",
+    "Script/create_todo_daily_note.bat",
+    "Script/create_ToDo_daily_note.py",
+    "Script/create_english_daily_note copy.py",
+    "ToDo/2025",
+    "README.md",
+    "プログラミング/HTML・CSS/2025-10-12.md",
     "算数・数学/a",
     "算数・数学/2025-10-12.md",
     "英語/2025-10-12.md",
-    "プログラミング/HTML・CSS/2025-10-12.md",
     "Script/English.lnk",
     "Script/Math.lnk",
     "Script/HTML_CSS.lnk",
-    "Script/create_html_css_daily_note.bat - ショートカット.lnk",
-    "Script/create_math_daily_note.bat - ショートカット.lnk",
-    "Script/create_english_daily_note.bat - ショートカット.lnk",
-    "Script/restart_service.bat",
     "Script/NSSM_SERVICE_README.md",
-    "Script/install_image_watcher_service.bat",
     "img/本 2025-10-08 15.52_01.jpg",
     "本 2025-10-08 15.52_01.jpg",
-    "Script/watch_images.bat",
-    "Script/auto_move_images.py",
     "Template/2025-10-10.md",
-    "README.md",
     "プログラミング/ネットワーク/URL/URL ・ URLスキーム.md",
     "無題のファイル.md",
     "img/CamScanner 2025-10-12 17.56 1.jpg",
@@ -237,13 +248,8 @@
     "プログラミング/HTML・CSS/AIへの質問・回答/2025-10-09.md",
     "プログラミング/HTML・CSS/AIへの質問・回答/2025-09-17.md",
     "プログラミング/HTML・CSS/2025-09-08.md",
-    "プログラミング/HTML・CSS/2025-08-24.md",
-    "プログラミング/無題のファイル.md",
     "Pasted image 20251010192607.png",
     "Pasted image 20251010192603.png",
-    "プログラミング/HTML・CSS/無題のファイル.md",
-    "無題のファイル 1.md",
-    "ToDo/2025-10-08.md",
     "img/スクリーンショット 2025-10-08 220424.png",
     "img/スクリーンショット 2025-10-09 002435.png"
   ]
