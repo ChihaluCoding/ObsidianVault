@@ -1,0 +1,18 @@
+{
+    "sourceFile": "Script/NSSM_SERVICE_README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1760279543748,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1760279543748,
+            "name": "Commit-0",
+            "content": "# NSSM Service Registration Guide\r\n\r\n## 前提条件\r\n1. NSSMをダウンロード: https://nssm.cc/download\r\n2. `nssm.exe`を展開し、任意のフォルダに配置（例: `C:\\nssm`）\r\n3. そのフォルダをPATHに追加するか、フルパスで実行\r\n\r\n## サービスの登録\r\n\r\n**管理者権限**でコマンドプロンプトを開き、以下を実行：\r\n\r\n```cmd\r\ncd \"c:\\Users\\sakip\\OneDrive\\ドキュメント\\Obsidian Vault\\Script\"\r\ninstall_image_watcher_service.bat\r\n```\r\n\r\n## サービスの管理\r\n\r\n### 開始\r\n```cmd\r\nnssm start ObsidianImageWatcher\r\n```\r\n\r\n### 停止\r\n```cmd\r\nnssm stop ObsidianImageWatcher\r\n```\r\n\r\n### 削除\r\n```cmd\r\nnssm remove ObsidianImageWatcher confirm\r\n```\r\n\r\n### ステータス確認\r\n```cmd\r\nnssm status ObsidianImageWatcher\r\n```\r\n\r\n## 手動インストール（GUIを使う場合）\r\n\r\n```cmd\r\nnssm install ObsidianImageWatcher\r\n```\r\n\r\nGUIが開くので、以下を設定：\r\n- **Path**: `C:\\Users\\sakip\\AppData\\Local\\Programs\\Python\\Python310\\python.exe`\r\n- **Startup directory**: `c:\\Users\\sakip\\OneDrive\\ドキュメント\\Obsidian Vault`\r\n- **Arguments**: `\"c:\\Users\\sakip\\OneDrive\\ドキュメント\\Obsidian Vault\\Script\\auto_watch_and_move_images.py\"`\r\n\r\n## トラブルシューティング\r\n\r\nログを確認：\r\n```cmd\r\nnssm set ObsidianImageWatcher AppStdout \"c:\\Users\\sakip\\OneDrive\\ドキュメント\\Obsidian Vault\\Script\\service.log\"\r\nnssm set ObsidianImageWatcher AppStderr \"c:\\Users\\sakip\\OneDrive\\ドキュメント\\Obsidian Vault\\Script\\service_error.log\"\r\n```\r\n"
+        }
+    ]
+}

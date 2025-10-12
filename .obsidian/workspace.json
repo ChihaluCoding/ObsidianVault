@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d6ee96f000b96138",
+        "id": "932d228ded951b24",
         "type": "tabs",
         "children": [
           {
-            "id": "0c037ac3862ab4ab",
+            "id": "681c68a658bad641",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新規タブ"
             }
           }
         ]
@@ -88,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 204.49999618530273
   },
   "right": {
     "id": "fc3287fc69a0cb44",
@@ -123,12 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "READMEからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -152,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "プログラミング/HTML・CSS/2025-10-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "READMEのアウトライン"
+              "title": "2025-10-12のアウトライン"
             }
           },
           {
@@ -204,15 +199,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c037ac3862ab4ab",
+  "active": "564e082e5bd8f2be",
   "lastOpenFiles": [
+    "プログラミング/HTML・CSS/2025-10-12.md",
+    "Script/English.lnk",
+    "Script/Math.lnk",
+    "Script/HTML_CSS.lnk",
+    "Script/create_html_css_daily_note.bat - ショートカット.lnk",
+    "Script/create_math_daily_note.bat - ショートカット.lnk",
+    "Script/create_english_daily_note.bat - ショートカット.lnk",
+    "Script/restart_service.bat",
+    "Script/NSSM_SERVICE_README.md",
+    "Script/install_image_watcher_service.bat",
+    "img/本 2025-10-08 15.52_01.jpg",
+    "本 2025-10-08 15.52_01.jpg",
+    "Script/watch_images.bat",
+    "Script/auto_move_images.py",
+    "英語/2025-10-12.md",
+    "算数・数学/2025-10-12.md",
+    "Template/2025-10-10.md",
+    "README.md",
     "プログラミング/ネットワーク/URL/URL ・ URLスキーム.md",
     "無題のファイル.md",
-    "README.md",
     "img/CamScanner 2025-10-12 17.56 1.jpg",
     "img/CamScanner 2025-10-12 15.29.jpg",
     "img/CamScanner 2025-10-12 17.56.jpg",
-    "プログラミング/ネットワーク/URL",
     "プログラミング/ネットワーク/プロトコル/HTTP ・ HTTPS.md",
     "プログラミング/HTML・CSS/2025-10-08.md",
     "プログラミング/HTML・CSS/2025-10-09.md",
@@ -226,29 +237,13 @@
     "プログラミング/HTML・CSS/AIへの質問・回答/2025-09-17.md",
     "プログラミング/HTML・CSS/2025-09-08.md",
     "プログラミング/HTML・CSS/2025-08-24.md",
-    "プログラミング/ネットワーク",
     "プログラミング/無題のファイル.md",
     "Pasted image 20251010192607.png",
     "Pasted image 20251010192603.png",
-    "プログラミング/プロトコル/無題のフォルダ",
-    "Template/2025-10-10.md",
-    "プログラミング/ネットワーク/プロトコル",
     "プログラミング/HTML・CSS/無題のファイル.md",
     "無題のファイル 1.md",
-    "img/本 2025-10-08 15.52_01.jpg",
     "ToDo/2025-10-08.md",
     "img/スクリーンショット 2025-10-08 220424.png",
-    "img/スクリーンショット 2025-10-09 002435.png",
-    "img",
-    "ToDo/2025-09-24.md",
-    "Template/AIへの質問・回答 テンプレ.md",
-    "Template/ToDo テンプレ.md",
-    "ToDo/2025-08-24.md",
-    "Template",
-    "プログラミング/HTML・CSS/AIへの質問・回答/2025-09-20.md",
-    "プログラミング/HTML・CSS/AIへの質問・回答",
-    "プログラミング/HTML・CSS",
-    "ToDo",
-    "算数・数学"
+    "img/スクリーンショット 2025-10-09 002435.png"
   ]
 }

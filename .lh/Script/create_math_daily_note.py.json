@@ -1,0 +1,22 @@
+{
+    "sourceFile": "Script/create_math_daily_note.py",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1760277736295,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1760277751425,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,9 +10,9 @@\n     if target.exists():\r\n         print(f\"File already exists: {target}\")\r\n         return\r\n     base_dir.mkdir(parents=True, exist_ok=True)\r\n-    template = \"#算数\\n\"\r\n+    template = \"#算数・数学\"\r\n     target.write_text(template, encoding=\"utf-8\")\r\n     print(f\"Created {target}\")\r\n \r\n \r\n"
+                }
+            ],
+            "date": 1760277736295,
+            "name": "Commit-0",
+            "content": "#!/usr/bin/env python3\r\nfrom datetime import datetime\r\nfrom pathlib import Path\r\n\r\n\r\ndef main() -> None:\r\n    base_dir = Path(__file__).resolve().parents[1] / \"算数・数学\"\r\n    today = datetime.now().strftime(\"%Y-%m-%d\")\r\n    target = base_dir / f\"{today}.md\"\r\n    if target.exists():\r\n        print(f\"File already exists: {target}\")\r\n        return\r\n    base_dir.mkdir(parents=True, exist_ok=True)\r\n    template = \"#算数\\n\"\r\n    target.write_text(template, encoding=\"utf-8\")\r\n    print(f\"Created {target}\")\r\n\r\n\r\nif __name__ == \"__main__\":\r\n    main()"
+        }
+    ]
+}
