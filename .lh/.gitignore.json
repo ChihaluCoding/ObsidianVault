@@ -1,0 +1,22 @@
+{
+    "sourceFile": ".gitignore",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1760271117785,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1760271123627,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n-# ToDoフォルダとimgフォルダを除外\r\n+\r\n ToDo/\r\n img/\r\n \r\n # Obsidianの設定ファイル（オプション）\r\n"
+                }
+            ],
+            "date": 1760271117785,
+            "name": "Commit-0",
+            "content": "# ToDoフォルダとimgフォルダを除外\r\nToDo/\r\nimg/\r\n\r\n# Obsidianの設定ファイル（オプション）\r\n.obsidian/\r\n\r\n# その他の一般的な除外ファイル\r\n.DS_Store\r\nThumbs.db\r\n*.tmp\r\n*.temp"
+        }
+    ]
+}
