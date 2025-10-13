@@ -11,3 +11,5 @@ img/
 Thumbs.db
 *.tmp
 *.temp
+.lh/
+.obsidian/

@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 5,
+            "activePatchIndex": 8,
             "patches": [
                 {
                     "date": 1760271117785,
@@ -28,6 +28,18 @@
                 {
                     "date": 1760280324446,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n \r\n ToDo/\r\n img/\r\n 英語/\r\n-算数数学/\r\n+算数‣数学/\r\n # Obsidianの設定ファイル（オプション）\r\n .obsidian/\r\n \r\n # その他の一般的な除外ファイル\r\n"
+                },
+                {
+                    "date": 1760330712475,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,13 +1,14 @@\n \r\n ToDo/\r\n img/\r\n 英語/\r\n-算数‣数学/\r\n+算数・数学/\r\n # Obsidianの設定ファイル（オプション）\r\n .obsidian/\r\n \r\n # その他の一般的な除外ファイル\r\n .DS_Store\r\n Thumbs.db\r\n *.tmp\r\n\\ No newline at end of file\n-*.temp\n+*.temp\r\n+.\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1760330725233,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -10,5 +10,5 @@\n .DS_Store\r\n Thumbs.db\r\n *.tmp\r\n *.temp\r\n-.\n\\ No newline at end of file\n+.lh/\r\n"
+                },
+                {
+                    "date": 1760330730989,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,4 +11,5 @@\n Thumbs.db\r\n *.tmp\r\n *.temp\r\n .lh/\r\n+.obsidian/\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1760271117785,
