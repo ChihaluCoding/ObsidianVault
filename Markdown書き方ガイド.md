@@ -155,7 +155,7 @@ def hello():
 
 ---
 
-## 表（Obsidianは不可）
+## 表（Obsidianは不可みたい）
 
 ```markdown
 | 列1 | 列2 | 列3 |
