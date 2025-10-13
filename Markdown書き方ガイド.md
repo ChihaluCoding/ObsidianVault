@@ -155,7 +155,7 @@ def hello():
 
 ---
 
-## 表
+## 表（Obsidianは不可）
 
 ```markdown
 | 列1 | 列2 | 列3 |
@@ -188,7 +188,7 @@ def hello():
 ___
 ```
 
-**表示:**
+**表示:**  ⇩これ自体が表示⇩
 
 ---
 
@@ -356,16 +356,3 @@ def main():
     print("Hello, World!")
 ```
 ```
-
----
-
-## 参考資料
-
-> [!INFO] 公式ドキュメント
-> - [Markdown公式](https://www.markdownguide.org/)
-> - [Obsidian公式ドキュメント](https://help.obsidian.md/)
-> - [GitHub Flavored Markdown](https://github.github.com/gfm/)
-
----
-
-**最終更新:** 2025-10-13
