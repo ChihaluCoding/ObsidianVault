@@ -24,7 +24,10 @@ def main() -> None:
 
 - [ ] ピアノ
 　- [ ] 
- 
+
+# 分からないこと
+#### 　・ ここに入力
+
 """
     target.write_text(template, encoding="utf-8")
     print(f"Created {target}")
